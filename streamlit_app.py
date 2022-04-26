@@ -1,7 +1,7 @@
 
 import streamlit
 
-streamlit.title('Happy to Set up my first website app')
+streamlit.title('My Hotel App Website')
 
 streamlit.header('Breakfast Menu')
 
