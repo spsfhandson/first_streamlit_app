@@ -1,6 +1,7 @@
 import pandas
 import streamlit
 import requests
+import snowflake.connector
 
 streamlit.title('My Hotel App Website')
 
